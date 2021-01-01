@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.div1{
+	text-align: center;
+	font-size:25pt;
+	background-image:url(../image/05.jpeg);
+	color: red;
+	height: 600px;
+	line-height:500px;
+}

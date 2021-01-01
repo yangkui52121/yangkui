@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.registerdiv{
+	height:230px;
+	text-align:center;
+	background-color:yellow;
+}
+.registerdiv .bu1{
+	width:200px;
+}
+.registerdiv .bu2{
+	width:200px;
+}
+.registerdiv .bu3{
+	width:200px;
+}
+.registerdiv1{
+	font-size:20pt;
+	color:red;
+}

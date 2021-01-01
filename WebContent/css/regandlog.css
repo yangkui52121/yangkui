@@ -1,0 +1,22 @@
+/* CSS Document */
+@charset "UTF-8";
+.regandloghead {
+	height:150px;
+	border: 1px solid red;
+	text-align:center;
+	line-height:150px;
+	font-family:"»ªÎÄ¿¬Ìå";
+	font-size:50px;
+	background-color:yellow;
+}
+.imagediv .image{
+	position:static;
+  +position:relative;
+  top:-50%;
+  left:-50%;
+}
+
+
+
+
+

@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.fundiv{
+	font-size:25pt;
+	background-color: yellow;
+	height:100px;
+	text-align: center;
+	line-height: 100px;
+}

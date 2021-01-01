@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.insertdiv{
+	text-align: center;
+	background-color: gray;
+}
+.insertdiv{
+	padding-top: 100px;
+	padding-bottom: 180px;
+}
+.insertdiv .bu1{
+	width: 200px;
+}
+
+.insertdiv .bu2{
+	width: 200px;
+}

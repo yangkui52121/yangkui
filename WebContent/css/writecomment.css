@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.div1{
+	text-align: center;
+	height: 1000px;
+}
+.div1 .tx1{
+	height:20px;
+}
+.div1 .tx2{
+	height:40px;
+	width: 300px;
+}
+.div1 .bu1{
+	width: 100px;
+	color: #00ff00;
+}
+.div1 .bu2{
+	width: 100px;
+	color: #ff0000;
+}

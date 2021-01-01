@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.div1{
+	text-align: center;
+}
+.div1 .bu1{
+	width: 200px;
+	height:40px;
+	border: 2px #0000ff double;
+	color: #000000;
+}
+
+.div1 .bu2{
+	width: 200px;
+	height:40px;
+	border: 2px #0000ff double;
+	color: #ff0000;
+}
+.div1 .tx1{
+	height: 21px;
+}
+.div1 .tx2{
+	height: 21px;
+}

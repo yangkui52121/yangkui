@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.div1{
+	text-align: center;
+	background-color: gray;
+}
+.div1{
+	padding-top: 100px;
+	padding-bottom: 180px;
+}
+.div1 .bu1{
+	width: 200px;
+}
+.div1 .bu2{
+	width: 200px;
+}
+.div1 .img{
+	position:relative;
+	bottom:100px;
+	margin-top: 0px;
+}
+
+.div1 span{
+	position:relative;
+	bottom:50px;
+}

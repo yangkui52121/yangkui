@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.menudiv{
+	width:150px;
+	background-color:#00a7d0;
+	float: left;
+}
+
+.menudiv .ul>li{
+	list-style:none;
+	margin-top: 60px;
+}
+
+.menudiv .ul a{
+	color:red;
+}
+
+.menudiv .ul a:hover{
+	color:white;
+}

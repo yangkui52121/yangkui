@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.logindiv2{
+	height:230px;
+	text-align:center;
+	background-color:yellow;
+}
+
+.logindiv2 .bu1{
+	width:200px;
+}
+
+.logindiv2 .bu2{
+	width:200px;
+}
+
+.logindiv2 .bu3{
+	width:200px;
+}

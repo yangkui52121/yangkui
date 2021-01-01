@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.main .div1 .tb1 .tr1{
+	background-color: #00ffff;
+}
+
+.main .div1{
+	text-align: center;
+}
+
+.main .div1 .tb1{
+	margin: auto;
+}
+
+.main .page{
+	text-align:center;
+}
+.main .page li{
+	list-style: none;
+	display: inline-block;
+}
+
+.main .page a{
+	text-decoration: none;
+}

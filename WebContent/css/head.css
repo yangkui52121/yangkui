@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.headdiv{
+	height:80px;
+	font-size:15pt;
+	text-align:center;
+	background-color:yellow;
+}

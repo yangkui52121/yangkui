@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.deletpetdiv{
+	text-align: center;
+	background-color: gray;
+	padding-top: 100px;
+	padding-bottom: 180px;
+}
+
+.deletpetdiv .bu1{
+	width: 200px;
+}
+
+.deletpetdiv .bu2{
+	width: 200px;
+}

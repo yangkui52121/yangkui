@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.main{
+	text-align: center;
+}
+
+.page{
+	position: relative;
+	top:130px;
+	}
+
+.main .page li{
+	list-style-type: none;
+	
+}
+.main .div1 caption{
+	position: relative;
+	top: 50px;
+}
+
+.main .page a{
+	text-decoration: none;
+	color: #00ffff;
+}
+.main .page a:hover {
+	font-size: 15pt;
+	color: #00ff00;
+}
+.main .div1 .tb1{
+	position: relative;
+	left: 450px;
+}
+.main .bu1{
+	width: 200px;
+}
+.main .div1{
+	height: 500px;
+}

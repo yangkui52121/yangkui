@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.div1{
+	text-align: center;
+}
+.div1 .tx1{
+	width: 200px;
+	height: 25px;
+	
+}
+.div1 .tb .tr1{
+	background-color: #00ffff;
+}
+.div1 .tb .tr1 th{
+	width: 150px;
+	height: 50px;
+}
+.div1 .tb .tr2 td{
+	width: 150px;
+	height: 50px;
+}
+.div1 .bu1{
+	width: 100px;
+}
+
+.div1 .tb{
+	position: relative;
+	left: 450px;
+}
+
+
+.div1 .bu2{
+	width: 100px;
+}
